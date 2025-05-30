@@ -1,0 +1,15 @@
+h1{
+    color: #1500ff;
+}
+.nav{
+    background-color: aqua;
+    margin-left:20px;
+    text-align-last: justify;
+}
+a{
+    text-decoration: none;
+}
+.underline{
+    text-decoration: underline;
+    text-align-last: center;
+}
